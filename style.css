@@ -1,0 +1,15 @@
+:root {
+  --color-inverse: #4caf50;
+}
+
+.hero {
+  background-color: #607d8b;
+}
+
+.video-hub-slide {
+  background-color: #272a31;
+}
+
+.video-hub-image {
+  height: 550px;
+}
